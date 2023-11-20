@@ -1,3 +1,3 @@
 # Spring Boot Microservices Full Tutorial
 
-https://www.youtube.com/watch?v=mPPhcU7oWDU
+Created along with this tutorial: https://www.youtube.com/watch?v=mPPhcU7oWDU
